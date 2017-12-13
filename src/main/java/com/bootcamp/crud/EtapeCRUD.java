@@ -5,8 +5,8 @@ package com.bootcamp.crud;
 import com.bootcamp.commons.constants.DatabaseConstants;
 import com.bootcamp.commons.exceptions.DatabaseException;
 import com.bootcamp.commons.models.Criterias;
-import com.bootcamp.entities.User;
-import com.bootcamp.repositories.UserRepository;
+import com.bootcamp.repositories.EtapeRepository;
+import com.bootcamp.entities.Etape;
 
 import java.lang.reflect.InvocationTargetException;
 import java.sql.SQLException;
@@ -16,11 +16,11 @@ import java.util.List;
  *
  * @author Bignon
  */
-public class UserCRUD implements DatabaseConstants{
+public class EtapeCRUD implements DatabaseConstants{
 
-    public static boolean create(User user) throws SQLException {
-        UserRepository userRepository = new UserRepository(PERSISTENCE_UNIT);
-        return EtapeRepository.create(Etape);
+    public static boolean create(Etape etape) throws SQLException {
+        EtapeRepository etapeRepository = new EtapeRepository(PERSISTENCE_UNIT);
+        return etapeRepository.create(etape);
     }
 
     public static boolean update(Etape Etape) throws SQLException {
