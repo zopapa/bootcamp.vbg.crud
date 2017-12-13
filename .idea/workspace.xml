@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="358fdf57-cc40-4919-845f-e65152cfa94c" name="Default" comment="" />
+    <list default="true" id="358fdf57-cc40-4919-845f-e65152cfa94c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/constants/AppConstants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/Commentaire.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/Etape.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/Media.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/Note.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/Plainte.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/User.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/entities/WorkFlow.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/BaseRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/CommentaireRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/EtapeRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/MediaRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/NoteRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/PlainteRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/UserRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/main/java/com/bootcamp/repositories/WorkFlowRepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/test/java/com/bootcamp/GenerateTableTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/test/java/com/bootcamp/TestUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/test/resources/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.database/src/test/resources/local/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/service.crud.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/CommentaireCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/EtapeCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/MediaCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/NoteCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/PlainteCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/UserCRUD.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/WorkFlowCRUD.java" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,62 +45,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CommentaireCRUD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/CommentaireCRUD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EtapeCRUD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/EtapeCRUD.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoteCRUD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/NoteCRUD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlainteCRUD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/PlainteCRUD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserCRUD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/UserCRUD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WorkFlowCRUD.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/WorkFlowCRUD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-549">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -75,12 +57,15 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -101,77 +86,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
+              <item name="bootcamp.vbg.crud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp.vbg.crud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VBG(13-12-2017)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VBG(13-12-2017)" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp.vbg.service.crud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,12 +195,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -271,9 +229,18 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -286,33 +253,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2490392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -323,51 +291,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/CommentaireCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/EtapeCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/NoteCRUD.java">
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/CommentaireCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/EtapeCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/NoteCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/PlainteCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/UserCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/WorkFlowCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/CommentaireCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/EtapeCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/NoteCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/PlainteCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/UserCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/WorkFlowCRUD.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/PlainteCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/UserCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootcamp.vbg.service.crud/src/main/java/com/bootcamp/crud/WorkFlowCRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-549">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
