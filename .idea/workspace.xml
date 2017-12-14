@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="358fdf57-cc40-4919-845f-e65152cfa94c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_bootcamp_vbg_commons_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_bootcamp_vbg_db_access_1_0_SNAPSHOT.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/VBG(13-12-2017).iml" afterPath="$PROJECT_DIR$/.idea/VBG(13-12-2017).iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_bootcamp_db_access_1_0_SNAPSHOT.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/crud-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/crud-jar-with-dependencies.jar" />
-      <change beforePath="$PROJECT_DIR$/target/crud.jar" afterPath="$PROJECT_DIR$/target/crud.jar" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-    </list>
+    <list default="true" id="358fdf57-cc40-4919-845f-e65152cfa94c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
